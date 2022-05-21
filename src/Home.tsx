@@ -1408,7 +1408,7 @@ const Home = (props: HomeProps) => {
                       
                       <div className="tw-border tw-border-solid tw-border-purple-1 tw-p-2 tw-rounded-md tw-text-white-1 tw-h-fit-content tw-text-[14px] tw-flex tw-gap-2 tw-whitespace-nowrap">
                         <span className="tw-font-light">PRICE</span>
-                        <span className="tw-font-bold">2◎</span>
+                        <span className="tw-font-bold">1◎</span>
                       </div>
                       <div className="tw-flex tw-items-center tw-gap-2">
                         <div
@@ -1507,7 +1507,7 @@ const Home = (props: HomeProps) => {
                             </span>
                             <b>•</b>
                             <span>
-                              Price <b>1.5◎</b>
+                              Price <b>1◎</b>
                             </span>
                           </div>
                         </div>
@@ -1551,7 +1551,7 @@ const Home = (props: HomeProps) => {
                             </span>
                             <b>•</b>
                             <span>
-                              Price <b>2◎</b>
+                              Price <b>1◎</b>
                             </span>
                           </div>
                         </div>
